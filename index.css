@@ -1,0 +1,18 @@
+.main-box {
+    height: 100px;
+    width: 100%;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: green;
+}
+
+#a1 { background-color: pink; }
+#a2 { background-color: purple; }
+#a3 { background-color: blue; }
+#a4 { background-color: red; }
+#a5 { background-color: orange; }
+#a6 { background-color: orangered; }
+#a7 { background-color: orchid; }
+#a8 { background-color: black; }
+#a9 { background-color: grey; }
+#a10 { background-color: yellow; }

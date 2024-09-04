@@ -1,0 +1,2 @@
+**Inline vs. External: Given the pros and cons of both inline and external styling, how might you decide which to use in future projects? Are there specific scenarios where one might be preferred over the other?**
+External is better if it needs to be reused or if there is a lot of rules you need to apply.
